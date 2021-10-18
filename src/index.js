@@ -84,7 +84,7 @@ const loadMore = () => {
     })
     .catch(error => console.log(error));
 };
-
+//whyyyyyy//
 SearchForm.addEventListener('submit', showPictures);
 btnMore.addEventListener('click', loadMore);
 btnMore.style.display = 'none';
